@@ -1,0 +1,96 @@
+1. Register / Open Account
+2. Login
+3. Exit
+Choose an option: 
+Enter an username: Choose a password: Enter your name: 
+-------------------------------------------------
+
+Account created.
+
+-------------------------------------------------
+1. Register / Open Account
+2. Login
+3. Exit
+Choose an option: 
+Enter username: Enter password: -------------------------------------------------
+
+Successful login.
+
+-------------------------------------------------
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which transfer would you like? 
+
+1. From Savings Account to Current Account
+2. From Current Account to Savings Account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which transfer would you like? 
+
+1. From Savings Account to Current Account
+2. From Current Account to Savings Account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which transfer would you like? 
+
+1. From Savings Account to Current Account
+2. From Current Account to Savings Account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Shutting down... 1, 2, 3
+Have a nice day.
+

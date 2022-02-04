@@ -1,0 +1,259 @@
+1. Register / Open Account
+2. Login
+3. Exit
+Choose an option: 
+Enter an username: Choose a password: Enter your name: 
+-------------------------------------------------
+
+Account created.
+
+-------------------------------------------------
+1. Register / Open Account
+2. Login
+3. Exit
+Choose an option: 
+Enter username: Enter password: -------------------------------------------------
+
+Successful login.
+
+-------------------------------------------------
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to deposit to? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to deposit? $Deposit Accepted
+Balance: $200
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to deposit to? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to deposit? $Deposit Accepted
+Balance: $200
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $Withdraw Failed: Insufficient funds.
+Balance: $200
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $Withdrawl Accepeted.
+Balance: $0
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $Withdraw Failed: Insufficient funds.
+Balance: $200
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $Withdrawl Accepeted.
+Balance: $0
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Which account would you like to withdraw from? 
+
+1. Savings Account
+2. Current account
+
+3. Go Back
+
+ENTER: -------------------------------------------------
+How much would you like to withdraw? $INCORRECT INPUT, TRY AGAIN
+-------------------------------------------------
+
+
+What would you like to do:
+
+1. Withdraw Money
+2. Deposit Money
+3. Transfer Money
+4. View Balance
+5. View Account Report
+6. Exit
+
+ENTER: -------------------------------------------------
+Shutting down... 1, 2, 3
+Have a nice day.
+
