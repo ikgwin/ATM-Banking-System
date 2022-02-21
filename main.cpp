@@ -46,21 +46,9 @@ int main() {
     string password; // string containing the users password
     int loginChoice; // users choice regarding what they want to do
     bool loginPrompt = true; // a boolean used to allow the login screen to run
-    int* randomArrayNeededForMarks = new int[3];  // array was not needed within our project but had to be demonstrated, thus, random array
-    int sizeOfRandomArray = 3; // size of the random array required for the for loop displaying the content of array
-    int* ptr = &sizeOfRandomArray; // assigning ptr to the address of size of arr
-    int arrLength = *ptr; 
-
-    int nums = 1; // counter that increases to append random array with {1,2,3}
-    for (int i = 0; i < arrLength; i++) {
-        randomArrayNeededForMarks[i] = nums;
-        nums ++;
-    }
-
 
 
 // ---------------------  CODE FOR LOGGING INTO THE PROGRAM AND SAVING CREDENTIALS UPON REGISTERING  -------------------------------------------------
-
 
 
     while (loginPrompt == true) { // running the login screen 
@@ -138,7 +126,7 @@ int main() {
 
 
 
-// ---------------------  CODE GOVERNING THE FUNCTIONING OF THE ATM MACHINE AND USER BEHAVIOUR WITH MONEY  -------------------------------------------------
+// ---------------------  CODE THAT HAS THE FUNCTIONING OF THE ATM MACHINE AND USER BEHAVIOUR WITH MONEY  -------------------------------------------------
 
 
 
